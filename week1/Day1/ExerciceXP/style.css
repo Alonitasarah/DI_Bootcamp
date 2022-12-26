@@ -1,0 +1,53 @@
+/* ARTICLE SUR LE CHAT */
+.sense{
+    position: relative;
+    left: 25px;
+}
+img{
+    height: 35vh;
+    width: 35vw;
+    border-width: 5px;
+    border-style: outset;
+    border-color: orangered;
+    position: relative;
+    left: 25em;
+    
+
+}
+.med{
+    text-align: center;
+}
+.than{
+    background-color: yellow;
+}
+/* ARTICLE SUR LE LION */
+
+    
+.color{
+    border-width: 1px;
+    border-style: outset;
+    border-color: red;
+    text-align: center;
+    color: red;
+
+}
+.th{
+    border-width: 1px;
+    border-color: black;
+    border-style: outset;
+}
+.th1{
+    border-width: 1px;
+    border-color: black;
+    border-style: outset;
+}
+.td{
+    border-width: 1px;
+    border-color: black;
+    border-style: outset;
+}
+.td1{
+    border-width: 1px;
+    border-color: black;
+    border-style: outset;
+}
