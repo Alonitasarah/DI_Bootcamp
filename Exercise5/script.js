@@ -1,3 +1,11 @@
+/*****************************************************
+Correcteur: Yannick GOUGUIA
+Revoir cet exercice, INCOMPLET
+*****************************************************/
+
+
+
+
 typeof(15)
 // Prediction: C'est un nombre
 // Actual:number
