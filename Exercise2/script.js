@@ -1,3 +1,11 @@
+/**
+Correcteur: Yannick GOUGUIA
+
+Merci de verifier vos exos
+*/
+
+
+
 // PARTIE 1
 const myWatchedSeries = ["black mirror", "money heist", "the big bang theory"];
 const myWatchedSeriesLength =(3);
